@@ -1,0 +1,52 @@
+[
+  {
+    "nume":"Popescu Andrei",
+    "post":"Sef",
+    "data_angajarii": [
+      2023,
+      2,
+      25
+    ],
+    "salariu": 2200
+  },
+  {
+    "nume":"Pop Alexandru",
+    "post":"Post2",
+    "data_angajarii": [
+      2022,
+      10,
+      15
+      ],
+    "salariu": 2300
+  },
+  {
+    "nume":"Toma Maria",
+    "post":"Director",
+    "data_angajarii": [
+      2021,
+      12,
+      14
+    ],
+    "salariu": 2400
+  },
+  {
+    "nume":"Popa Andreea",
+    "post":"Post4",
+    "data_angajarii": [
+      2022,
+      1,
+      10
+    ],
+    "salariu": 2500
+  },
+  {
+    "nume":"Martin Alexandra",
+    "post":"Post5",
+    "data_angajarii": [
+      2023,
+      4,
+      8
+    ],
+    "salariu": 2600
+  }
+]
